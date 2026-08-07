@@ -6,3 +6,4 @@ person = {
 }
 
 print(person)
+print(person["age"])
